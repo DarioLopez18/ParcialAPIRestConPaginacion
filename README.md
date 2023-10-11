@@ -1,4 +1,4 @@
-# EntregaTpAPIRestSinPaginacion
+# EntregaTpAPIRestConPaginacion
 
  <p align="center">
      <img
